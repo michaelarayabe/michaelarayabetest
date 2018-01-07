@@ -13,8 +13,8 @@ img: /img/mtickets_home.png
 <h1>Screenshots</h1>
 <div class="img_row" style="height: 100%">
   <a href="/img/mtickets_home.png"><img class="col one" src="/img/mtickets_home.png"></a>
-  <a href="/img/peanuts_dashboard.png"><img class="col one" src="/img/mtickets_dashboard.png"></a>
-  <a href="/img/peanuts_events.png"><img class="col one" src="/img/mtickets_events.png"></a>
+  <a href="/img/mtickets_dashboard.png"><img class="col one" src="/img/mtickets_dashboard.png"></a>
+  <a href="/img/mtickets_events.png"><img class="col one" src="/img/mtickets_events.png"></a>
 </div>
 <br>
 <br>
